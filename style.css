@@ -371,7 +371,7 @@ section .title::after{
 }
 
 .teams .title::after{
-    content: "who i am";
+    content: "my blogs";
     bottom: -31px;
 } 
 
